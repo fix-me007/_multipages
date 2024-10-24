@@ -1,9 +1,0 @@
-
-.custom-grid{
-    display: grid;
-    border: 1px solid white;
-    gap: 1rem;
-    overflow-y: auto;
-    height: 80dvh;
-    grid-template-columns: repeat(3, 1fr);
-}
