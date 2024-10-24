@@ -1,0 +1,15 @@
+
+.todo-filters-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.todo-table {
+  border: 1px solid white;
+}
+
+.todo-space {
+  margin: 0 0.5rem
+}
